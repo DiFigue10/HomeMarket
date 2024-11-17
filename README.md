@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/DiFigue10/HomeMarket">
-    <img src="https://i.imgur.com/N3y7mZx.png" alt="Logo" width="100" height="100">
+    <img src="https://i.imgur.com/N3y7mZx.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Home Market</h3>
