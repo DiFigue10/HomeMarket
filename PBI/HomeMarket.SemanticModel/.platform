@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "HomeMarket"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "42d6f272-81f3-4b94-a0a3-d313b5086e2f"
+  }
+}
