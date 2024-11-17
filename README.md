@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/DiFigue10/HomeMarket">
-    <img src="https://i.imgur.com/N3y7mZx.png" alt="Logo" width="80" height="80">
+    <img src="https://i.imgur.com/N3y7mZx.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Home Market</h3>
@@ -60,11 +60,11 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[forks-shield]: https://img.shields.io/github/forks/DiFigue10/HomeMarket.svg?style=for-the-badge
+[forks-url]: https://github.com/DiFigue10/HomeMarket/network/members
+[stars-shield]: https://img.shields.io/github/stars/DiFigue10/HomeMarket.svg?style=for-the-badge
+[stars-url]: https://github.com/DiFigue10/HomeMarket/stargazers
+[issues-shield]: https://img.shields.io/github/issues/DiFigue10/HomeMarket.svg?style=for-the-badge
+[issues-url]: https://github.com/DiFigue10/HomeMarket/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/ruizfigueroa/
