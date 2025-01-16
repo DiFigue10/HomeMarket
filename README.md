@@ -52,7 +52,6 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -61,14 +60,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 The company to be studied is "Home Market". This company is dedicated to the sale of different products. These are divided into categories and subcategories. In addition, "Home Market" distributes its products to around six countries. The objective of the project is to provide key indicators for business decision making using T-SQL for data cleaning and Power Bi for data visualization.
 
 The project details can be found in the READMEs of the following folders:
 * 📂 PBI
 * 📂 SQL Statements
 
+
+### Built With
+* [![PBI][PBI.pbip]][PBI-url]
+* [![React][SQL.sql]][SQL-url]
 
 
 
@@ -83,3 +84,8 @@ The project details can be found in the READMEs of the following folders:
 [issues-url]: https://github.com/DiFigue10/HomeMarket/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/ruizfigueroa/
+
+[PBI.pbip]: https://img.shields.io/badge/Power-bi-yellow?logoColor=yellow&labelColor=yellow&color=black
+[PBI-url]: https://www.microsoft.com/es-es/power-platform/products/power-bi
+[SQL.sql]: https://img.shields.io/badge/Microsoft-sql-blue?logoColor=blue&labelColor=blue&color=black
+[SQL-url]: https://www.microsoft.com/es-es/sql-server/sql-server-downloads
