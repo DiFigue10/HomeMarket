@@ -27,6 +27,13 @@
 The company to be studied is "Home Market". This company is dedicated to the sale of different products. These are divided into categories and subcategories. In addition, "Home Market" distributes its products to around six countries. The objective of the project is to provide key indicators for business decision making using T-SQL for data cleaning and Power Bi for data visualization.
 
 ## Demo
+
+### Page1
 <div align="center">
 <img src="https://i.imgur.com/1vIbDZR.png" alt="Image1" width="1000" height="600">
+</div>
+
+### Page2
+<div align="center">
+<img src="https://i.imgur.com/rhtdXgc.png" alt="Image1" width="1000" height="600">
 </div>
