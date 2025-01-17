@@ -67,12 +67,12 @@ The project details can be found in the READMEs of the following folders:
 
 ### Page1
 <div align="center">
-<img src="https://i.imgur.com/1vIbDZR.png" alt="Image1" width="1000" height="600">
+<img src="https://i.imgur.com/1vIbDZR.png" alt="Image1" width="900" height="600">
 </div>
 
 ### Page2
 <div align="center">
-<img src="https://i.imgur.com/rhtdXgc.png" alt="Image1" width="1000" height="600">
+<img src="https://i.imgur.com/rhtdXgc.png" alt="Image1" width="900" height="600">
 </div>
 
 
