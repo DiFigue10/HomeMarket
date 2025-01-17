@@ -1,5 +1,5 @@
 # Home Market
-<div align="center">
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/DiFigue10/HomeMarket?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/DiFigue10/HomeMarket?style=for-the-badge)
 [![Forks][forks-shield]][forks-url]
@@ -7,7 +7,7 @@
 [![Issues][issues-shield]][issues-url]
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/DiFigue10/HomeMarket?style=for-the-badge)
 [![LinkedIn][linkedin-shield]][linkedin-url]
-</div>
+
 
 <!-- PROJECT LOGO -->
 <br />
