@@ -44,16 +44,8 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
+      <a href="#getting-started">Demo</a>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -71,7 +63,17 @@ The project details can be found in the READMEs of the following folders:
 * [![PBI][PBI.pbip]][PBI-url]
 * [![React][SQL.sql]][SQL-url]
 
+## Demo
 
+### Page1
+<div align="center">
+<img src="https://i.imgur.com/1vIbDZR.png" alt="Image1" width="1000" height="600">
+</div>
+
+### Page2
+<div align="center">
+<img src="https://i.imgur.com/rhtdXgc.png" alt="Image1" width="1000" height="600">
+</div>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
