@@ -1,4 +1,5 @@
 # Home Market
+<div align="center">
 ![GitHub repo size](https://img.shields.io/github/repo-size/DiFigue10/HomeMarket?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/DiFigue10/HomeMarket?style=for-the-badge)
 [![Forks][forks-shield]][forks-url]
@@ -6,6 +7,7 @@
 [![Issues][issues-shield]][issues-url]
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/DiFigue10/HomeMarket?style=for-the-badge)
 [![LinkedIn][linkedin-shield]][linkedin-url]
+</div>
 
 <!-- PROJECT LOGO -->
 <br />
@@ -67,12 +69,12 @@ The project details can be found in the READMEs of the following folders:
 
 ### Page1
 <div align="center">
-<img src="https://i.imgur.com/1vIbDZR.png" alt="Image1" width="900" height="600">
+<img src="https://i.imgur.com/1vIbDZR.png" alt="Image1" width="1000" height="500">
 </div>
 
 ### Page2
 <div align="center">
-<img src="https://i.imgur.com/rhtdXgc.png" alt="Image1" width="900" height="600">
+<img src="https://i.imgur.com/rhtdXgc.png" alt="Image1" width="1000" height="500">
 </div>
 
 
